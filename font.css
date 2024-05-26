@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Montserrat-Bold";
+    src: url('./text_styles/Montserrat/Montserrat-Bold.woff2') format('woff2'),
+    url('./text_styles/Montserrat/Montserrat-Bold.woff') format('woff'),
+    url('./text_styles/Montserrat/Montserrat-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Montserrat-Medium";
+    src: url('./text_styles/Montserrat/Montserrat-Medium.woff2') format('woff2'),
+    url('./text_styles/Montserrat/Montserrat-Medium.woff') format('woff'),
+    url('./text_styles/Montserrat/Montserrat-Medium.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Montserrat-Regular";
+    src: url('./text_styles/Montserrat/Montserrat-Regular.woff2') format('woff2'),
+    url('./text_styles/Montserrat/Montserrat-Regular.woff') format('woff'),
+    url('./text_styles/Montserrat/Montserrat-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: "Montserrat-SemiBold";
+    src: url('./text_styles/Montserrat/Montserrat-SemiBold.woff2') format('woff2'),
+    url('./text_styles/Montserrat/Montserrat-SemiBold.woff') format('woff'),
+    url('./text_styles/Montserrat/Montserrat-SemiBold.ttf') format('truetype');
+}
+
+
+
